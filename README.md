@@ -1,6 +1,6 @@
 # Pizza Place Sales: SQL Analysis (MySQL)
 
-A SQL project analysing a year of sales (2015) from a fictional pizza restaurant. I built the database in MySQL, imported the raw CSV files, and wrote queries to answer the kind of questions a business analyst would be asked: what sells, when are we busiest, and where does the revenue come from?
+A SQL project analysing a year of sales (2015) from a pizza restaurant. I built the database in MySQL, imported the raw CSV files, and wrote queries to answer the kind of questions a business analyst would be asked: what sells, when are we busiest, and where does the revenue come from?
 
 **Tools:** MySQL 8.0+, MySQL Workbench
 **Dataset:** [Pizza Place Sales on Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales) (uploaded by mysarahmadbhat). The raw CSVs are not included in this repo.
